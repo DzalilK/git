@@ -1,0 +1,15 @@
+C:\Users\dj-kd\OneDrive\Рабочий стол\git\trewel\bin\Debug\net7.0\trewel.exe
+C:\Users\dj-kd\OneDrive\Рабочий стол\git\trewel\bin\Debug\net7.0\trewel.deps.json
+C:\Users\dj-kd\OneDrive\Рабочий стол\git\trewel\bin\Debug\net7.0\trewel.runtimeconfig.json
+C:\Users\dj-kd\OneDrive\Рабочий стол\git\trewel\bin\Debug\net7.0\trewel.dll
+C:\Users\dj-kd\OneDrive\Рабочий стол\git\trewel\bin\Debug\net7.0\trewel.pdb
+C:\Users\dj-kd\OneDrive\Рабочий стол\git\trewel\obj\Debug\net7.0\trewel.csproj.AssemblyReference.cache
+C:\Users\dj-kd\OneDrive\Рабочий стол\git\trewel\obj\Debug\net7.0\trewel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj-kd\OneDrive\Рабочий стол\git\trewel\obj\Debug\net7.0\trewel.AssemblyInfoInputs.cache
+C:\Users\dj-kd\OneDrive\Рабочий стол\git\trewel\obj\Debug\net7.0\trewel.AssemblyInfo.cs
+C:\Users\dj-kd\OneDrive\Рабочий стол\git\trewel\obj\Debug\net7.0\trewel.csproj.CoreCompileInputs.cache
+C:\Users\dj-kd\OneDrive\Рабочий стол\git\trewel\obj\Debug\net7.0\trewel.dll
+C:\Users\dj-kd\OneDrive\Рабочий стол\git\trewel\obj\Debug\net7.0\refint\trewel.dll
+C:\Users\dj-kd\OneDrive\Рабочий стол\git\trewel\obj\Debug\net7.0\trewel.pdb
+C:\Users\dj-kd\OneDrive\Рабочий стол\git\trewel\obj\Debug\net7.0\trewel.genruntimeconfig.cache
+C:\Users\dj-kd\OneDrive\Рабочий стол\git\trewel\obj\Debug\net7.0\ref\trewel.dll
